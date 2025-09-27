@@ -4,7 +4,7 @@
     "slug": "bloxpay",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/logo.png",
     "scheme": "bloxpay",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -30,10 +30,10 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
+          "backgroundColor": "#24e9b1",
           "dark": {
             "backgroundColor": "#000000"
           }
